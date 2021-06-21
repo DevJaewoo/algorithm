@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/12865_평범한 배낭/12865_평범한 배낭.iml" filepath="$PROJECT_DIR$/12865_평범한 배낭/12865_평범한 배낭.iml" />
       <module fileurl="file://$PROJECT_DIR$/1655_가운데를 말해요/1655_가운데를 말해요.iml" filepath="$PROJECT_DIR$/1655_가운데를 말해요/1655_가운데를 말해요.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3197_백조의 호수/3197_백조의 호수.iml" filepath="$PROJECT_DIR$/3197_백조의 호수/3197_백조의 호수.iml" />
       <module fileurl="file://$PROJECT_DIR$/Baekjoon.iml" filepath="$PROJECT_DIR$/Baekjoon.iml" />
     </modules>
   </component>
